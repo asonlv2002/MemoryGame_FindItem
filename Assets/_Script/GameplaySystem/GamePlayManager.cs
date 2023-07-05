@@ -15,7 +15,6 @@ namespace GameplaySystem
         }
         private void Start()
         {
-            //CurrentLevel = Random.Range(1, _boardsInfor.Count + 1);
             CreateBoard();
         }
         void CreateBoard()
