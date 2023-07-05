@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   <Level>k__BackingField: 4
   <Board>k__BackingField: {fileID: 2979958586222334271, guid: a2b6543c8c4aea04bb70fddf76f84924, type: 3}
-  MaxScore: 250
+  MaxScore: 100
   CurrentScore: 0

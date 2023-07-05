@@ -2,6 +2,8 @@
 using System.Collections;
 using UnityEngine;
 using UnityEngine.Events;
+using DG.Tweening;
+using GameplaySystem;
 
 namespace MatchSystem
 {
@@ -13,6 +15,11 @@ namespace MatchSystem
         public UnityAction OnCorrect;
         public UnityAction OnFail;
         public UnityAction OnMatch;
+
+        [SerializeField] RectTransform Containt;
+        [SerializeField] Transform End;
+        [SerializeField] ItemCollect itemPrefab;
+
         public bool IsOnProcess { get; private set; }
         private void Awake()
         {
@@ -75,8 +82,9 @@ namespace MatchSystem
 
         void OnActiveCorrect()
         {
-            Destroy(_secondCard.gameObject);
-            Destroy(_firstCard.gameObject);
+            MoveToContaint(_secondCard);
+            MoveToContaint(_firstCard);
+            StartCoroutine(OnCreate(_firstCard));
             ClearTempCard();
         }
 
@@ -93,5 +101,20 @@ namespace MatchSystem
             IsOnProcess = false;
         }
 
+
+        void MoveToContaint(CardControl cardControl)
+        {
+            var rect = cardControl.CardUI.Transform;
+            var end = End.position;
+            rect.DOMove(end, 0.5f).SetEase(Ease.InOutBack).OnComplete(() => Destroy(cardControl.gameObject));
+        }
+
+        IEnumerator OnCreate(CardControl cardControl)
+        {
+            var icon = cardControl.CardUI.Icon;
+            yield return new WaitForSeconds(0.5f);
+            var item = Instantiate(itemPrefab, Containt);
+            item.SetIcon(icon);
+        }
     }
 }
