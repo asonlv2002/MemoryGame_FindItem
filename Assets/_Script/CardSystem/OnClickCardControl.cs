@@ -18,6 +18,7 @@ namespace CardSystem
         void OnClick()
         {
             _matchAdapter.OnClickCard();
+            _cardControl.CardSate.SwitchState();
         }
 
         private void OnDestroy()
