@@ -52,10 +52,8 @@ namespace BoardSystem
         {
             for(int i=0; i< _cardCount; i++)
             {
-                Debug.Log(_cards[i]);
                 var temp = _cards[i].CardUI.Icon;
                 int randomIndex = Random.Range(i, _cardCount);
-                Debug.Log(randomIndex);
                 _cards[i].CardUI.SetIcon(_cards[randomIndex].CardUI.Icon);
                 _cards[randomIndex].CardUI.SetIcon(temp);
             }
