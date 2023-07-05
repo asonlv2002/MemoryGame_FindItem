@@ -8,7 +8,7 @@ namespace GameplaySystem
         [field: SerializeField] public int CurrentLevel { get; private set; }
         [SerializeField] List<BoardInformation> _boardsInfor;
         BoardControl CurrentBoard;
-
+        BoardInformation BoardInfor;
         private void Awake()
         {
             
@@ -19,7 +19,8 @@ namespace GameplaySystem
         }
         void CreateBoard()
         {
-            var prefab = _boardsInfor.Find(x => x.Level == CurrentLevel).Board;
+            BoardInfor = _boardsInfor.Find(x => x.Level == CurrentLevel);
+            var prefab = BoardInfor.Board;
             CurrentBoard = Instantiate(prefab, transform);
         }
     }

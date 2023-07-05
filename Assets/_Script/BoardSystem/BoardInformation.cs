@@ -6,6 +6,7 @@ namespace BoardSystem
     {
         [field : SerializeField] public int Level { get; private set; }
         [field: SerializeField] public BoardControl Board { get; private set; }
-        public int TimeCount;
+        public int MaxScore;
+        public int CurrentScore;
     }
 }
