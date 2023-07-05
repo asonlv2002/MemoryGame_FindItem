@@ -53,11 +53,11 @@ PrefabInstance:
       objectReference: {fileID: 241671826, guid: cdad254dfea9c03468a0a1539035d454, type: 3}
     - target: {fileID: 6249316862115089925, guid: 86432e69ebb7b9542a9d978cae74005b, type: 3}
       propertyPath: m_CellSize.x
-      value: 280
+      value: 230
       objectReference: {fileID: 0}
     - target: {fileID: 6249316862115089925, guid: 86432e69ebb7b9542a9d978cae74005b, type: 3}
       propertyPath: m_CellSize.y
-      value: 280
+      value: 230
       objectReference: {fileID: 0}
     - target: {fileID: 6249316862115089925, guid: 86432e69ebb7b9542a9d978cae74005b, type: 3}
       propertyPath: m_Constraint
@@ -65,7 +65,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6249316862115089925, guid: 86432e69ebb7b9542a9d978cae74005b, type: 3}
       propertyPath: m_ConstraintCount
-      value: 3
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 6249316862115089926, guid: 86432e69ebb7b9542a9d978cae74005b, type: 3}
       propertyPath: m_Name
