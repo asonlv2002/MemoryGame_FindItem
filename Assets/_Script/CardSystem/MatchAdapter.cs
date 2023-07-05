@@ -1,5 +1,5 @@
 ﻿using UnityEngine;
-using MatchSytem;
+using MatchSystem;
 namespace CardSystem
 {
     internal class MatchAdapter
@@ -12,7 +12,13 @@ namespace CardSystem
 
         public void OnClickCard()
         {
-            MatchManager.Instance.OnClickCard(_cardControl);
+            var macthProcess = MatchManager.Instance.MatchingProcess;
+            if (!macthProcess.IsOnProcess)
+            {
+                macthProcess.OnClickCard(_cardControl);
+                _cardControl.CardSate.SwitchState();
+            }
+
         }
     }
 }
