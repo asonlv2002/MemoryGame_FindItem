@@ -7,6 +7,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 6249316862115089922, guid: 86432e69ebb7b9542a9d978cae74005b, type: 3}
+      propertyPath: _icons.Array.data[0]
+      value: 
+      objectReference: {fileID: -1976307695, guid: cdad254dfea9c03468a0a1539035d454, type: 3}
+    - target: {fileID: 6249316862115089922, guid: 86432e69ebb7b9542a9d978cae74005b, type: 3}
+      propertyPath: _icons.Array.data[1]
+      value: 
+      objectReference: {fileID: 1150193301, guid: fd445fddee91d2245ac9fb76e0950236, type: 3}
     - target: {fileID: 6249316862115089925, guid: 86432e69ebb7b9542a9d978cae74005b, type: 3}
       propertyPath: m_CellSize.x
       value: 420

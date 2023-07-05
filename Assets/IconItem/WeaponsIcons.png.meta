@@ -42,7 +42,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -115,7 +115,2926 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: WeaponsIcons_0
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 2855
+        width: 261
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a884a6a5079bf64e81db933ce61c12a
+      internalID: 217717403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_1
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 2855
+        width: 260
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538058f911f24a4418c447500b6ad6f4
+      internalID: -1429188707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_2
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 2855
+        width: 261
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866a1245d028f424eba9938a54bcaf04
+      internalID: -309488266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_3
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 2855
+        width: 260
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e48cf764cc8cc4e870a1391e838714
+      internalID: 1885604277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_4
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 2855
+        width: 260
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ccb94a8ee56d54db6d1be2aa3fcadc
+      internalID: 1455480452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_5
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 2855
+        width: 261
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f008d0256e667458708bdae13dcd2f
+      internalID: 1359224581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_6
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 2855
+        width: 261
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4d5ebca27c4dd43a38e36543ef02c7
+      internalID: 69020593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Axe
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 2855
+        width: 260
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3abeb0d8d43a84ebb63e74dcd2b92b
+      internalID: -209286430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_8
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 2855
+        width: 261
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4a02f88ca6ad841b131e72d1e0cd78
+      internalID: 320242138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_9
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 2855
+        width: 261
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fea1b6e478a3f048bed87d470b5d9dc
+      internalID: -2006348197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_10
+      rect:
+        serializedVersion: 2
+        x: 2855
+        y: 2855
+        width: 261
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631bc02b3c398ec44956b211915771cb
+      internalID: 870323568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_11
+      rect:
+        serializedVersion: 2
+        x: 3132
+        y: 2855
+        width: 261
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7c63f1b2cee15498ea73a270ecbc11
+      internalID: 1142948964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_12
+      rect:
+        serializedVersion: 2
+        x: 3406
+        y: 2855
+        width: 260
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9500d49a12309c948a81821474e522c2
+      internalID: 39959051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_13
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 2569
+        width: 261
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46ff58b13a21ad4d995306e10f21d94
+      internalID: -1753661105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_14
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 2569
+        width: 260
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2644a0ba48733a740b720b189e212662
+      internalID: -1524956873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_15
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 2569
+        width: 261
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc764b2dbc77b444be72379ff2899d8
+      internalID: 1996254190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_16
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 2569
+        width: 260
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf3d1ed97735264db1244ebef1dfdc6
+      internalID: 1008311133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_17
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 2569
+        width: 260
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff3d16e769937e4d866e1de5d619e77
+      internalID: 1193790881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_18
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 2569
+        width: 261
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64388025930fa6240824de5591780e83
+      internalID: -1329245354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_19
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 2569
+        width: 261
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b250d584f9f8740469be2f23d4ca2462
+      internalID: 1030726115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_20
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 2569
+        width: 260
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c7b210ef2cf064ea51dd9e93ca2655
+      internalID: 2062457834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_21
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 2569
+        width: 261
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ab1d61ed1ef5c4b9c17ba5b9d553c7
+      internalID: 489394932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_22
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 2569
+        width: 261
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750fcff355791f14390c004d8c8f1ffb
+      internalID: -594497031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_23
+      rect:
+        serializedVersion: 2
+        x: 2855
+        y: 2569
+        width: 261
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69b962038d5a0246a680981cd0ae169
+      internalID: 826229395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_24
+      rect:
+        serializedVersion: 2
+        x: 3132
+        y: 2569
+        width: 261
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d464e23d73c7f943a059bde7cefdd52
+      internalID: -1335459500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_25
+      rect:
+        serializedVersion: 2
+        x: 3406
+        y: 2569
+        width: 260
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087867b4d661929458dfaa8e92858b73
+      internalID: -97290827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_26
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 2287
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91e6d0e55e9a884aa6901348792d008
+      internalID: -1426835600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_27
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 2287
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50dd31d67a34e0042a8347488127b271
+      internalID: 322715652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_28
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 2287
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eac2cc77e5773640bbfb817bff8f75e
+      internalID: 1570395243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_29
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 2287
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d523ca88c96af4093e225618ef9aa1
+      internalID: 1592823347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_30
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 2287
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea0709bfeb11db419c4e2a911e352dd
+      internalID: -1686453858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_31
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 2287
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ef78058da2dc049b6f98ce00477743
+      internalID: 1051693699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_32
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 2287
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e32de02fd10f44cb5a1c66ef0d2dde
+      internalID: 257876869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_33
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 2287
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ddefad650eff342924f4a47d3b47c9
+      internalID: 426689237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_34
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 2287
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b52424daff05a54898b6224164553ac
+      internalID: -1978786834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_35
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 2287
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0667e2813d1f55c4cb20c146276d245c
+      internalID: -416277667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_36
+      rect:
+        serializedVersion: 2
+        x: 2855
+        y: 2287
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7373009cc38f92a42a76899d7a81d22b
+      internalID: -337825230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_37
+      rect:
+        serializedVersion: 2
+        x: 3132
+        y: 2287
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4303d60a70682e0439ed74030aab02ba
+      internalID: 2095807716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_38
+      rect:
+        serializedVersion: 2
+        x: 3406
+        y: 2287
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703e165c7d8cc4c4fa15f6f38603b656
+      internalID: -1110020737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_39
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 2010
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52846281c1b2fe479c69e733f65d1d5
+      internalID: 156319982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_40
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 2010
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5697fdfa16e6d8f4092c932f9f2bfdff
+      internalID: 1000816873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_41
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 2010
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac4092564a6b7b4db69871fa8d22cf5
+      internalID: 1973129731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_42
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 2010
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de582ba6d4890f642879467be22b4565
+      internalID: 532440272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_43
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 2010
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c366f1eeb310ee4886668a0e85b198b
+      internalID: -1117164303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_44
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 2010
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0828578492c76544cb25eecda73e117a
+      internalID: 1774208367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_45
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 2010
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23b1245deba1b1479a414516ff11838
+      internalID: -1933029359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_46
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 2010
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df56e832f81ca4b4581b592f52c5a316
+      internalID: -2120770758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_47
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 2010
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7643dcfd299719943a6e16e2454b77dd
+      internalID: 291637994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_48
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 2010
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e5736760d952248b138d58fabe0a10
+      internalID: 2100625263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_49
+      rect:
+        serializedVersion: 2
+        x: 2855
+        y: 2010
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b6c0f6cd7943548bbcc4a37f6a6450
+      internalID: -1423939284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_50
+      rect:
+        serializedVersion: 2
+        x: 3132
+        y: 2010
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e2b2c45e120a744b61a0b6760ee96b
+      internalID: -535868312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_51
+      rect:
+        serializedVersion: 2
+        x: 3406
+        y: 2010
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d869234348b4232469e44c2feaadd264
+      internalID: 205105149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_52
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1733
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c21fc0e26929b4c842f5dcc4f1ee33
+      internalID: 958637215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_53
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1733
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae0c343acf88a8438f1ea1ca8b1a13d
+      internalID: 523093317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_54
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1733
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc14237f6a8eafe4cb27086c502b7c0f
+      internalID: -1714237124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_55
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 1733
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55429b9ea10380d4abfbe7421886e9e7
+      internalID: -899145744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_56
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1733
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb131425e87e684287bf34ba6340751
+      internalID: -907803408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_57
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 1733
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00046f437591d4248a472b380fc9c67c
+      internalID: 528696855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_58
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 1734
+        width: 261
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c99e6e103991e846a669e9d7fea76e1
+      internalID: -1664699151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_59
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 1734
+        width: 260
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c020d5809d05ea2408c7778e8761533e
+      internalID: 1229029749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_60
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 1733
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49059bd271a8e154bb99f95f7e2e7286
+      internalID: 332536379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_61
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 1734
+        width: 261
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91c6268493325a449a2b71e555f5e68
+      internalID: -1388938423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_62
+      rect:
+        serializedVersion: 2
+        x: 2855
+        y: 1734
+        width: 261
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56471ce386d9686449a9562f8879ca14
+      internalID: -1414577499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_63
+      rect:
+        serializedVersion: 2
+        x: 3132
+        y: 1733
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b2c0c7e0dc49a4390c1750668114b9
+      internalID: -770391167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_64
+      rect:
+        serializedVersion: 2
+        x: 3406
+        y: 1733
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56958ba9f6a21c49a67dfe03fd8d547
+      internalID: -715075546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_65
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1455
+        width: 261
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2e66347f18fc04eadeb03e85b15a92
+      internalID: 1210006055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_66
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1455
+        width: 260
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f6d95d2f34da643b2773ce24c29915
+      internalID: -150280501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_67
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1455
+        width: 261
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4bcc00769dd28c469fa1b10a94f922b
+      internalID: 717614401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_68
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 1455
+        width: 260
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a70dc8a1e6fdf241884f68cc3243530
+      internalID: 304247392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_69
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1455
+        width: 260
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bf7b120fd47904785a827b36ad704d
+      internalID: -1820428528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_70
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 1455
+        width: 261
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41347920041f9f748a157f2ccccedcd5
+      internalID: 1167416032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_71
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 1455
+        width: 261
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3359c3ab725d74e9c31c0d84d50d55
+      internalID: -1660697176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_72
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 1455
+        width: 260
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29141343b78a1c4cadd5ea21d52884c
+      internalID: -886177263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_73
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 1455
+        width: 261
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59f3fef451af9d4d88dce9c1a85d2aa
+      internalID: -863866320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_74
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 1455
+        width: 261
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2bd3d8fdd0b7c64ebaaf6d082049717
+      internalID: -306480447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_75
+      rect:
+        serializedVersion: 2
+        x: 2855
+        y: 1455
+        width: 261
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25cf91913c6cd6548b713d521abf5cf2
+      internalID: -1193358552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_76
+      rect:
+        serializedVersion: 2
+        x: 3132
+        y: 1455
+        width: 261
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc6903f40d9baa4fb7fdd5d1bf397b0
+      internalID: -1175496102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_77
+      rect:
+        serializedVersion: 2
+        x: 3406
+        y: 1455
+        width: 260
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e067d07a96a9a524ba61c3c9a178dcdf
+      internalID: 599995650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_78
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1176
+        width: 261
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de4df1890ec0224382688e5ae9fd860
+      internalID: -1590016903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_79
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1177
+        width: 260
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ace8e8261fa9d44ad9f971141b524e
+      internalID: -314289369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_80
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1176
+        width: 261
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2cd80926080c814e81a5332ba8aa73a
+      internalID: 639528877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_81
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 1176
+        width: 260
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54267776c6e381b47b362f8382d3f9ce
+      internalID: 963602574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_82
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1177
+        width: 260
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9014e301940344ba54cea9b087cbea
+      internalID: -889494785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_83
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 1177
+        width: 261
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420276c8f852d4f4aa48bbd9a900f957
+      internalID: -1534341333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_84
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 1177
+        width: 261
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafa32cdf94e3cb43be0f710134e59b7
+      internalID: -972356926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_85
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 1177
+        width: 260
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95089dedf3ffba44bac351ceb742307
+      internalID: 1481209323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_86
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 1177
+        width: 261
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725e7dea6c1188243ba28fa7f8a7b30e
+      internalID: -1784165331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_87
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 1177
+        width: 261
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf968cdde14f864d8efd3a4a6c6f309
+      internalID: -359468379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_88
+      rect:
+        serializedVersion: 2
+        x: 2855
+        y: 1177
+        width: 261
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223a038647aaf0945b9115579df6580e
+      internalID: -386678594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_89
+      rect:
+        serializedVersion: 2
+        x: 3132
+        y: 1177
+        width: 261
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250eaf7dd86515f4bb1bc7e778fd92c2
+      internalID: 967159495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_90
+      rect:
+        serializedVersion: 2
+        x: 3406
+        y: 1177
+        width: 260
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66bb1f775f2c09c4aaa32d9df7158194
+      internalID: -2106888370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_91
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 900
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6489494fd67a37443beeba4c15adc9c9
+      internalID: -569952651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_92
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 900
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609235eeb657b1c4ca741e3a3505acd5
+      internalID: 280867002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_93
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 900
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3133f6ac5e176e1469b30e72d51d02ec
+      internalID: -172773487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_94
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 900
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039d1f8cc0bab3d488771f82edf84651
+      internalID: -152995542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_95
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 900
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c84ec7876efea4aade7e68c3bfdb5c
+      internalID: -2137294752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_96
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 900
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5847cb8cc24ba33469a99c4a56aafdd8
+      internalID: 1177310710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_97
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 900
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e797398c52efa488ee4da9b6b6c48a
+      internalID: 1636061931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Scythe
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 900
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef079f2908eccee43b3b16e7cebc96b0
+      internalID: 1150193301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_99
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 900
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6299fb2ae62a5489b99f1d6ade1b24
+      internalID: 1457238330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_100
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 900
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c0f9c10c15ab84e9d31ae7e35bbf70
+      internalID: -1151195280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_101
+      rect:
+        serializedVersion: 2
+        x: 2855
+        y: 900
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbba9eb1cfc95e4cb0b7754639dc895
+      internalID: -705181847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_102
+      rect:
+        serializedVersion: 2
+        x: 3132
+        y: 900
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e6ba52ccd27b943ad635dd5e7d117f
+      internalID: 1015991771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_103
+      rect:
+        serializedVersion: 2
+        x: 3406
+        y: 900
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f63f3fd42a1dd47bc8367ade16dc5f
+      internalID: -1354032201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_104
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 624
+        width: 261
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d3b1507c2932f40a1c23a9529e76d4
+      internalID: -344269133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_105
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 624
+        width: 260
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf54171a07d24643860bd0f76c7a4b5
+      internalID: 1407819876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_106
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 624
+        width: 261
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b155a9f3d6180a54e82caedad211f18b
+      internalID: 1706178713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_107
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 624
+        width: 260
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245885954c9272c43a2a518d99e4881a
+      internalID: 144718456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_108
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 624
+        width: 260
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541786b005e62544eae246be067adb65
+      internalID: -1307732105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_109
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 624
+        width: 261
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b73b2730b0cf4f4e844b4db5e104876
+      internalID: 911118377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_110
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 624
+        width: 261
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e9df9925b84464c8b5c183f639330b
+      internalID: -1348345449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_111
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 624
+        width: 260
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af16234ffdb19a84db030e0ef0846565
+      internalID: 279336747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_112
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 624
+        width: 261
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d8584d4f6cb1a4bae387b2d32acd65
+      internalID: -1421885311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_113
+      rect:
+        serializedVersion: 2
+        x: 2578
+        y: 624
+        width: 261
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142704503232f5b40b0c0e758dbd5414
+      internalID: -1914812234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_114
+      rect:
+        serializedVersion: 2
+        x: 2855
+        y: 624
+        width: 261
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45baced33b1c427478a667bc4244beaa
+      internalID: 1273404984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_115
+      rect:
+        serializedVersion: 2
+        x: 3132
+        y: 624
+        width: 261
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70fc2723952cd6428f40ab541ba4026
+      internalID: 135935369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_116
+      rect:
+        serializedVersion: 2
+        x: 3406
+        y: 624
+        width: 260
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7afe10fb8ab1c498e9cca72eb40404
+      internalID: 1381280646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_117
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 344
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f135796ea530a4184c24c10dd43901
+      internalID: 114557547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_118
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 344
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725490ae94074bf45acdc851deb6286d
+      internalID: 669892878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_119
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 344
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25026a428326a2a40928d03e4c7293d3
+      internalID: 2132057334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_120
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 344
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f7648344b2058498d1a5fa238def8c
+      internalID: 601917512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_121
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 344
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b872ed5debb7b47a34e57762879615
+      internalID: -2128141938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_122
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 344
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bdf93fd2bb1dd459dbf34006812ec1
+      internalID: 1098230353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_123
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 344
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe5bb29bbd1aac4db65ed7ffa835503
+      internalID: 491266868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_124
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 344
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07379ab3c2df2a418f6b27f8491282c
+      internalID: -697164424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Sword
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 344
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d39181882dc924a84c5760f8e15592
+      internalID: -891574175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_126
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 344
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61380f459a75170478763d3a3351ce61
+      internalID: 1581356783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_127
+      rect:
+        serializedVersion: 2
+        x: 2855
+        y: 344
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab3accc460a9d44f9fd21cb3ec3e135
+      internalID: -34032540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_128
+      rect:
+        serializedVersion: 2
+        x: 3132
+        y: 344
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8b7a9c686d70c4e963390ee59e26b6
+      internalID: -1006802131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_129
+      rect:
+        serializedVersion: 2
+        x: 3406
+        y: 344
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ab4b8cb6563a34bb83d791004bdfbc
+      internalID: 326478990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_130
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 68
+        width: 261
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4d63f5a95e3f1478c10f3142e29dfb
+      internalID: -947767310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_131
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 68
+        width: 260
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f3cd11fdacf2c4b8d2c8707d64d7f6
+      internalID: -690907485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_132
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 68
+        width: 261
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ff1b1f3a84027499acd4a99da2b483
+      internalID: 2125294216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_133
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 68
+        width: 260
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9323de1970e9ff349a3857c1c3060f67
+      internalID: -1278934901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_134
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 68
+        width: 260
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594d22a6292e3bc49b09103408a8f9be
+      internalID: -738668666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_135
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 68
+        width: 261
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5fb958c8d24b5f4984ad63bf5b74d21
+      internalID: -1587331824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_136
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 68
+        width: 261
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202e1272401ea364c938085b368fcb3e
+      internalID: -819161807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_137
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 68
+        width: 260
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9322126094d44884c89ee458d4bff6a0
+      internalID: -1586983491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeaponsIcons_138
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 68
+        width: 261
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de091116327f48b4494766ae1ee5f418
+      internalID: 1294314591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -126,7 +3045,146 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      WeaponsIcons_26: -1426835600
+      WeaponsIcons_38: -1110020737
+      WeaponsIcons_32: 257876869
+      WeaponsIcons_48: 2100625263
+      WeaponsIcons_54: -1714237124
+      WeaponsIcons_17: 1193790881
+      WeaponsIcons_77: 599995650
+      WeaponsIcons_57: 528696855
+      WeaponsIcons_33: 426689237
+      WeaponsIcons_124: -697164424
+      WeaponsIcons_59: 1229029749
+      WeaponsIcons_86: -1784165331
+      WeaponsIcons_81: 963602574
+      WeaponsIcons_134: -738668666
+      WeaponsIcons_14: -1524956873
+      WeaponsIcons_112: -1421885311
+      Item_Sword: -891574175
+      WeaponsIcons_39: 156319982
+      WeaponsIcons_55: -899145744
+      WeaponsIcons_3: 1885604277
+      WeaponsIcons_56: -907803408
+      WeaponsIcons_85: 1481209323
+      WeaponsIcons_116: 1381280646
+      WeaponsIcons_131: -690907485
+      WeaponsIcons_69: -1820428528
+      WeaponsIcons_58: -1664699151
+      WeaponsIcons_82: -889494785
+      WeaponsIcons_51: 205105149
+      WeaponsIcons_90: -2106888370
+      WeaponsIcons_60: 332536379
+      WeaponsIcons_34: -1978786834
+      WeaponsIcons_79: -314289369
+      WeaponsIcons_0: 217717403
+      WeaponsIcons_83: -1534341333
+      WeaponsIcons_10: 870323568
+      WeaponsIcons_27: 322715652
+      WeaponsIcons_87: -359468379
+      WeaponsIcons_73: -863866320
+      WeaponsIcons_100: -1151195280
+      WeaponsIcons_115: 135935369
+      WeaponsIcons_36: -337825230
+      WeaponsIcons_1: -1429188707
+      WeaponsIcons_132: 2125294216
+      WeaponsIcons_105: 1407819876
+      WeaponsIcons_111: 279336747
+      WeaponsIcons_19: 1030726115
+      WeaponsIcons_2: -309488266
+      WeaponsIcons_6: 69020593
+      WeaponsIcons_53: 523093317
+      WeaponsIcons_49: -1423939284
+      WeaponsIcons_29: 1592823347
+      WeaponsIcons_37: 2095807716
+      WeaponsIcons_30: -1686453858
+      WeaponsIcons_45: -1933029359
+      WeaponsIcons_70: 1167416032
+      WeaponsIcons_20: 2062457834
+      WeaponsIcons_91: -569952651
+      WeaponsIcons_114: 1273404984
+      WeaponsIcons_28: 1570395243
+      WeaponsIcons_44: 1774208367
+      WeaponsIcons_31: 1051693699
+      WeaponsIcons_78: -1590016903
+      Item_Scythe: 1150193301
+      WeaponsIcons_119: 2132057334
+      WeaponsIcons_102: 1015991771
+      WeaponsIcons_15: 1996254190
+      WeaponsIcons_117: 114557547
+      WeaponsIcons_40: 1000816873
+      WeaponsIcons_113: -1914812234
+      WeaponsIcons_130: -947767310
+      WeaponsIcons_110: -1348345449
+      WeaponsIcons_138: 1294314591
+      WeaponsIcons_43: -1117164303
+      WeaponsIcons_84: -972356926
+      WeaponsIcons_127: -34032540
+      Item_Axe: -209286430
+      WeaponsIcons_93: -172773487
+      WeaponsIcons_103: -1354032201
+      WeaponsIcons_35: -416277667
+      WeaponsIcons_129: 326478990
+      WeaponsIcons_67: 717614401
+      WeaponsIcons_89: 967159495
+      WeaponsIcons_25: -97290827
+      WeaponsIcons_66: -150280501
+      WeaponsIcons_123: 491266868
+      WeaponsIcons_101: -705181847
+      WeaponsIcons_64: -715075546
+      WeaponsIcons_9: -2006348197
+      WeaponsIcons_118: 669892878
+      WeaponsIcons_23: 826229395
+      WeaponsIcons_21: 489394932
+      WeaponsIcons_68: 304247392
+      WeaponsIcons_135: -1587331824
+      WeaponsIcons_22: -594497031
+      WeaponsIcons_61: -1388938423
+      WeaponsIcons_12: 39959051
+      WeaponsIcons_5: 1359224581
+      WeaponsIcons_16: 1008311133
+      WeaponsIcons_136: -819161807
+      WeaponsIcons_121: -2128141938
+      WeaponsIcons_8: 320242138
+      WeaponsIcons_63: -770391167
+      WeaponsIcons_96: 1177310710
+      WeaponsIcons_62: -1414577499
+      WeaponsIcons_80: 639528877
+      WeaponsIcons_47: 291637994
+      WeaponsIcons_99: 1457238330
+      WeaponsIcons_104: -344269133
+      WeaponsIcons_18: -1329245354
+      WeaponsIcons_120: 601917512
+      WeaponsIcons_128: -1006802131
+      WeaponsIcons_75: -1193358552
+      WeaponsIcons_126: 1581356783
+      WeaponsIcons_95: -2137294752
+      WeaponsIcons_97: 1636061931
+      WeaponsIcons_88: -386678594
+      WeaponsIcons_72: -886177263
+      WeaponsIcons_71: -1660697176
+      WeaponsIcons_122: 1098230353
+      WeaponsIcons_74: -306480447
+      WeaponsIcons_24: -1335459500
+      WeaponsIcons_76: -1175496102
+      WeaponsIcons_109: 911118377
+      WeaponsIcons_65: 1210006055
+      WeaponsIcons_108: -1307732105
+      WeaponsIcons_41: 1973129731
+      WeaponsIcons_52: 958637215
+      WeaponsIcons_92: 280867002
+      WeaponsIcons_11: 1142948964
+      WeaponsIcons_13: -1753661105
+      WeaponsIcons_133: -1278934901
+      WeaponsIcons_50: -535868312
+      WeaponsIcons_42: 532440272
+      WeaponsIcons_46: -2120770758
+      WeaponsIcons_107: 144718456
+      WeaponsIcons_137: -1586983491
+      WeaponsIcons_106: 1706178713
+      WeaponsIcons_94: -152995542
+      WeaponsIcons_4: 1455480452
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

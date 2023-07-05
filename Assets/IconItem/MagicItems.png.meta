@@ -42,7 +42,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -115,7 +115,2191 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: MagicItems_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2578
+        width: 259
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b1efedd4da7b04499309273aede455
+      internalID: 773693696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2860
+        width: 259
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009da5b3fc16e004f96421c0fae77f20
+      internalID: -2110286269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_2
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 2578
+        width: 259
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1652d8ba659c1429b9035763cc138e
+      internalID: 1940724681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_3
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 2860
+        width: 259
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f77a0d33c2787343a670f19a7635fa9
+      internalID: -1949568766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_4
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 2578
+        width: 261
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23296d059fadf5f4d994595855d6694f
+      internalID: -2112098793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_5
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 2860
+        width: 261
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed8a7f8d14201a46bbfda3b4d49cb1a
+      internalID: 241932370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_6
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 2578
+        width: 260
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3f506b50a8e134cbd68d209f96cf0b
+      internalID: -2005887044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_7
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 2860
+        width: 260
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac55d3df041cda45bb774ecb0e3452a
+      internalID: 460386764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_8
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 2578
+        width: 260
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b9eb4048501a7458ae3f0b608477d8
+      internalID: 1715848484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_9
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 2860
+        width: 260
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1594252ec8c154ca40422582e13b63
+      internalID: 1859315361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_10
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 2578
+        width: 261
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afed241c00d497347ad4a11c7e100bd8
+      internalID: 1490046126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_11
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 2860
+        width: 261
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c063e8590f2634d4dacbd3efacc83796
+      internalID: -1820859945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_12
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 2578
+        width: 261
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38447779af63bd2449ade8ee8e58823b
+      internalID: 209233697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_13
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 2860
+        width: 261
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5eea2135c2fcec44b922e078d62d787
+      internalID: 482390411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_14
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 2578
+        width: 259
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15f81ca0466cd248838bce5c45018cc
+      internalID: -695962733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_15
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 2860
+        width: 259
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98039e416b82ca64fb43f31a2d3e56b1
+      internalID: 1573959466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_16
+      rect:
+        serializedVersion: 2
+        x: 2265
+        y: 2860
+        width: 261
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5f271dd8ce5764a81d0ca2da311eb0
+      internalID: 1094002602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_17
+      rect:
+        serializedVersion: 2
+        x: 2265
+        y: 2578
+        width: 261
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b064221da33a4be41a75a1bab22f0ca6
+      internalID: 487007867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_18
+      rect:
+        serializedVersion: 2
+        x: 2547
+        y: 2860
+        width: 259
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd14b5e33859c854ba2e0012af58bd0c
+      internalID: 321093375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_19
+      rect:
+        serializedVersion: 2
+        x: 2547
+        y: 2578
+        width: 259
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45815e67d42618345a7510d2a2d3f54d
+      internalID: -1833854150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_20
+      rect:
+        serializedVersion: 2
+        x: 2832
+        y: 2578
+        width: 260
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39b9db43e77240418f8dee7ab010b7d
+      internalID: 1083788903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_21
+      rect:
+        serializedVersion: 2
+        x: 2832
+        y: 2578
+        width: 285
+        height: 543
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a4f8323da3b9f4eac4030795a30316
+      internalID: -1177771561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2294
+        width: 259
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7671e12b331297f48b98c6bd8645f00a
+      internalID: -1478332296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_23
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 2294
+        width: 259
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c212a0c0fc68940aafe262eb2e3de6
+      internalID: 218613973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_24
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 2294
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af70bfb58269ac4883af0bfe9fd8bd0
+      internalID: -1548442459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_25
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 2294
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921051a7901f330488c7b95df29365d4
+      internalID: -1510006725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_26
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 2294
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da6dbb062f61b14a8e70240b3e8d170
+      internalID: 718384907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_27
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 2294
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914810bdd7c9c9d43a9a5833c9666384
+      internalID: 1673918883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_28
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 2294
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e189b2646ad4db4e880d9ec6ce88c76
+      internalID: 1596228345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_29
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 2294
+        width: 259
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f581d1f2f8df98419c8557924719bfa
+      internalID: 1613521911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_30
+      rect:
+        serializedVersion: 2
+        x: 2265
+        y: 2294
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2529d80f6bdb7e1438eeee7437f56bdd
+      internalID: -1408822192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_31
+      rect:
+        serializedVersion: 2
+        x: 2547
+        y: 2294
+        width: 259
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6ebf91a9b0e0b4ba9839dcb5526af4
+      internalID: 1700577431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_32
+      rect:
+        serializedVersion: 2
+        x: 2832
+        y: 2294
+        width: 285
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d08fcd5fcfe024a807cc0122b2929c
+      internalID: -706083153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2010
+        width: 259
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77cb723d6c219c4b90413fc5274d4aa
+      internalID: 192267286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_34
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 2010
+        width: 259
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b515cebef60b8234cba39d7bcd9bee24
+      internalID: 1707452992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_35
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 2010
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac9e8bf725020844aae1dac2003df8a
+      internalID: 616751395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_36
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 2010
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b93131923b76504bb8e79e136c0901d
+      internalID: -1714654746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_37
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 2010
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47251257c39d11549b107021d7dd67b9
+      internalID: -1506781520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_38
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 2010
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d219b3f3f9871984eb7725699b95f4ba
+      internalID: -1371905319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_39
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 2010
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35bd50478e13614a9041953938028bf
+      internalID: 474174376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_40
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 2010
+        width: 259
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9193cd7a4b534964bb7afe1b5248b881
+      internalID: -331637269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_41
+      rect:
+        serializedVersion: 2
+        x: 2265
+        y: 2010
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17486875159c8224f9a932b55236b936
+      internalID: 1733293090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_42
+      rect:
+        serializedVersion: 2
+        x: 2547
+        y: 2010
+        width: 259
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc07121df015d84fad26e5ce10a057c
+      internalID: 327245674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_43
+      rect:
+        serializedVersion: 2
+        x: 2832
+        y: 2010
+        width: 285
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6d69dac2b359a428f6f9bf2904ffb9
+      internalID: -910021837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1726
+        width: 259
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2d81b9dc9034e4f9f5492c7690cfef
+      internalID: -1339518828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_45
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1726
+        width: 259
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046167b5ecf74c04ea9f14320cec00ce
+      internalID: -1582324616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_46
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1726
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d4ee3b71933c54a804750545b41396
+      internalID: 1098332438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_47
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 1726
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98067b8664c247d4e83cc62ef0c6fe33
+      internalID: 1660128586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_48
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 1726
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: addbd265f1549fd4bbff6b0b3ae7dda0
+      internalID: -373060151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_49
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 1726
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145095e87abc67f48be7d10a42356595
+      internalID: -726919882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_50
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 1726
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452d4a62d2946e14582f4bdaadef8ee7
+      internalID: -794622006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_51
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 1726
+        width: 259
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45411e4b2df247f48a36656d07c48085
+      internalID: -208333362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_52
+      rect:
+        serializedVersion: 2
+        x: 2265
+        y: 1726
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d109fc13575b34748bd03cca045c98e7
+      internalID: 741597204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_53
+      rect:
+        serializedVersion: 2
+        x: 2547
+        y: 1726
+        width: 259
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb23c000dca4c5240b99611b4e4d050f
+      internalID: 1576465430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_54
+      rect:
+        serializedVersion: 2
+        x: 2832
+        y: 1726
+        width: 285
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350c96b570d177949bf85251e68e6c0d
+      internalID: -904292517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_55
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1444
+        width: 516
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db3b3622a3478e43b81c16143e50566
+      internalID: -1891308723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_56
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1444
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd06e270450ab5f47836803c1ce4af10
+      internalID: -1060534035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_57
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 1444
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf2956d24352604aa33d61bc14831b2
+      internalID: -1372809877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_58
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 1444
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5353190fddcb3274e84b6bb1fe92a57e
+      internalID: -2042553051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_59
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 1444
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a478cba483d584daa70bc38a3940dc
+      internalID: 260362528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Mp_Poiton
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 1444
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe5e453f5c20714689e549583427bb0
+      internalID: 1302365075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_61
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 1444
+        width: 259
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b049959eb60c8498ad9a3e37cdd4b4
+      internalID: -1055715733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item_Hp_Poition
+      rect:
+        serializedVersion: 2
+        x: 2265
+        y: 1444
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91677fc4954d121449ba8aced8be6b1f
+      internalID: 1831622549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_63
+      rect:
+        serializedVersion: 2
+        x: 2547
+        y: 1444
+        width: 259
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a411c5f86722947be6fb4b65898835
+      internalID: -695616354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_64
+      rect:
+        serializedVersion: 2
+        x: 2832
+        y: 1444
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c642a81a35292f48b01d9ad49658018
+      internalID: 2144346009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1160
+        width: 259
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4437cf5270f274e88431278fadbc42
+      internalID: -1299052695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_66
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1160
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c4f454227cb4e47a9e2ba01c48f30c
+      internalID: 1204948634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_67
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1160
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969187945894f324a82939843ab9c346
+      internalID: -1307265679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_68
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 1160
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56396f6fe05d2364cb83f1434616743c
+      internalID: 1773951927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_69
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 1160
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22ac5da32932454b963e56f4b027e27
+      internalID: 389484817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_70
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 1160
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4bbd3ae33932ac458d38d72e8a10142
+      internalID: 628532479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_71
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 1160
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57bcbc8fb54024c4a837e9fb6476404e
+      internalID: 1145137614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_72
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 1160
+        width: 259
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71f317065a5add4a9439235e1e49504
+      internalID: -402442979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_73
+      rect:
+        serializedVersion: 2
+        x: 2265
+        y: 1160
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45566cf2fa5f67f4db31bcb9339e207e
+      internalID: -1418288231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_74
+      rect:
+        serializedVersion: 2
+        x: 2547
+        y: 1160
+        width: 259
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79408afcf0a03e4cab47b4573a9ecbb
+      internalID: 343742033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_75
+      rect:
+        serializedVersion: 2
+        x: 2832
+        y: 1160
+        width: 285
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ac29e68ab68ed48a8764c9025a1739
+      internalID: -1422889186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 311
+        width: 259
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452511e64ed9cb44396ccf2fe1a9dd07
+      internalID: 557692553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 876
+        width: 259
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2effe280976c93a4bb6c2e9a3fa690d1
+      internalID: -213226849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 594
+        width: 259
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19818fa8f51e6a041b93b5ce828e959a
+      internalID: -211597945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_79
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 311
+        width: 259
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f25cc6295831f45a6b8e1c89ff7ac0
+      internalID: -976551588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_80
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 594
+        width: 259
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f548de52b9bd5744895f51aa8754ab0
+      internalID: 1220357388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_81
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 876
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad79c2baa5759844d995c57ac8357b24
+      internalID: -1204672067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_82
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 311
+        width: 261
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb2a8c4afc3e904b83594554f41317b
+      internalID: 2079284357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_83
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 876
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad42c4a8edf57a4d97d2e8e595f92d0
+      internalID: 1672543268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_84
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 594
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8507cccdeb8f6a447ab7d77c1d6b5362
+      internalID: 1309104324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_85
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 876
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c1644370e8a9844994f0d6219163c9
+      internalID: -1264153372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_86
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 311
+        width: 260
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd04e7df6f6f5f458e6a82468d34a56
+      internalID: -571331639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_87
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 594
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3eb78980a366df4f90c6de28979504f
+      internalID: -8269857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_88
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 876
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26325aaa75d68024fa79508e24ba775c
+      internalID: 754557932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_89
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 311
+        width: 260
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf10af2f8cbc7f45a2f41b3495f6579
+      internalID: 193644189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_90
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 594
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda8d76169df60b448ddbf7e752b42ea
+      internalID: -707218964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_91
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 311
+        width: 261
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df6c4166a8e4824aa3e6c2c1cf65c12
+      internalID: 276061637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_92
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 594
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc62a1f698da1884b9a80379ba507ede
+      internalID: -766999788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_93
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 876
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77add500ebe8924f9b70db598dece79
+      internalID: 1052223445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_94
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 594
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054b2325a6009a24e84b0becd384b986
+      internalID: 682143921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_95
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 876
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c043a429697c4f64684e23b7e18dcac5
+      internalID: -1131719126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_96
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 876
+        width: 259
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9b4bc5773b55545b67597247bb26a4
+      internalID: -455379896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_97
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 594
+        width: 259
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea27f07a4fc429a4abc95fabb61624d3
+      internalID: -2000412053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_98
+      rect:
+        serializedVersion: 2
+        x: 2265
+        y: 594
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab28ea2018244e4b8482e4214c5f1de
+      internalID: -120726631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_99
+      rect:
+        serializedVersion: 2
+        x: 2265
+        y: 876
+        width: 261
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f616c9229470c5499370cf73c104766
+      internalID: -596590052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_100
+      rect:
+        serializedVersion: 2
+        x: 2547
+        y: 594
+        width: 259
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee282e718ec7c074194f0d10a9720016
+      internalID: 1661943569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_101
+      rect:
+        serializedVersion: 2
+        x: 2547
+        y: 876
+        width: 259
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7366f5278d128334b99964081f1e1a65
+      internalID: -210126195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_102
+      rect:
+        serializedVersion: 2
+        x: 2832
+        y: 594
+        width: 260
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4134ff5aea59f842b9ee4f35a192e72
+      internalID: -559112524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicItems_103
+      rect:
+        serializedVersion: 2
+        x: 2832
+        y: 311
+        width: 285
+        height: 825
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8c581656ec0f841a0f31cb1889caaa
+      internalID: -158716118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -126,7 +2310,111 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MagicItems_72: -402442979
+      MagicItems_79: -976551588
+      MagicItems_89: 193644189
+      MagicItems_63: -695616354
+      MagicItems_2: 1940724681
+      MagicItems_32: -706083153
+      MagicItems_3: -1949568766
+      MagicItems_9: 1859315361
+      MagicItems_12: 209233697
+      MagicItems_101: -210126195
+      MagicItems_24: -1548442459
+      MagicItems_47: 1660128586
+      MagicItems_103: -158716118
+      MagicItems_64: 2144346009
+      MagicItems_4: -2112098793
+      MagicItems_58: -2042553051
+      MagicItems_21: -1177771561
+      MagicItems_83: 1672543268
+      MagicItems_94: 682143921
+      MagicItems_35: 616751395
+      MagicItems_41: 1733293090
+      MagicItems_27: 1673918883
+      MagicItems_77: -213226849
+      MagicItems_59: 260362528
+      MagicItems_65: -1299052695
+      MagicItems_33: 192267286
+      MagicItems_82: 2079284357
+      MagicItems_70: 628532479
+      MagicItems_98: -120726631
+      MagicItems_46: 1098332438
+      MagicItems_86: -571331639
+      MagicItems_11: -1820859945
+      MagicItems_53: 1576465430
+      MagicItems_15: 1573959466
+      MagicItems_96: -455379896
+      MagicItems_22: -1478332296
+      MagicItems_42: 327245674
+      MagicItems_85: -1264153372
+      MagicItems_100: 1661943569
+      MagicItems_102: -559112524
+      Item_Mp_Poiton: 1302365075
+      MagicItems_20: 1083788903
+      MagicItems_84: 1309104324
+      MagicItems_90: -707218964
+      MagicItems_17: 487007867
+      MagicItems_76: 557692553
+      MagicItems_19: -1833854150
+      MagicItems_0: 773693696
+      MagicItems_29: 1613521911
+      MagicItems_44: -1339518828
+      MagicItems_14: -695962733
+      MagicItems_18: 321093375
+      MagicItems_45: -1582324616
+      MagicItems_49: -726919882
+      MagicItems_95: -1131719126
+      MagicItems_55: -1891308723
+      MagicItems_25: -1510006725
+      MagicItems_81: -1204672067
+      MagicItems_26: 718384907
+      MagicItems_88: 754557932
+      MagicItems_71: 1145137614
+      MagicItems_69: 389484817
+      MagicItems_10: 1490046126
+      MagicItems_99: -596590052
+      MagicItems_56: -1060534035
+      MagicItems_67: -1307265679
+      Item_Hp_Poition: 1831622549
+      MagicItems_75: -1422889186
+      MagicItems_5: 241932370
+      MagicItems_43: -910021837
+      MagicItems_7: 460386764
+      MagicItems_54: -904292517
+      MagicItems_48: -373060151
+      MagicItems_68: 1773951927
+      MagicItems_92: -766999788
+      MagicItems_23: 218613973
+      MagicItems_34: 1707452992
+      MagicItems_80: 1220357388
+      MagicItems_6: -2005887044
+      MagicItems_97: -2000412053
+      MagicItems_36: -1714654746
+      MagicItems_28: 1596228345
+      MagicItems_78: -211597945
+      MagicItems_39: 474174376
+      MagicItems_52: 741597204
+      MagicItems_38: -1371905319
+      MagicItems_57: -1372809877
+      MagicItems_74: 343742033
+      MagicItems_91: 276061637
+      MagicItems_1: -2110286269
+      MagicItems_87: -8269857
+      MagicItems_66: 1204948634
+      MagicItems_50: -794622006
+      MagicItems_31: 1700577431
+      MagicItems_61: -1055715733
+      MagicItems_16: 1094002602
+      MagicItems_13: 482390411
+      MagicItems_93: 1052223445
+      MagicItems_37: -1506781520
+      MagicItems_30: -1408822192
+      MagicItems_40: -331637269
+      MagicItems_8: 1715848484
+      MagicItems_51: -208333362
+      MagicItems_73: -1418288231
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
