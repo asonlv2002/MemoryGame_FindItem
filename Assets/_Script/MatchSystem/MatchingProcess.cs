@@ -12,6 +12,7 @@ namespace MatchSystem
 
         public UnityAction OnCorrect;
         public UnityAction OnFail;
+        public UnityAction OnMatch;
         public bool IsOnProcess { get; private set; }
         private void Awake()
         {
@@ -60,6 +61,7 @@ namespace MatchSystem
             {
                 StartCoroutine(WaitLoadFlip(OnFail));
             }
+            OnMatch?.Invoke();
         }
 
         IEnumerator WaitLoadFlip(UnityAction action)

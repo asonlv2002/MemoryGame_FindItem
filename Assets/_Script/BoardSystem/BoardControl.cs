@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Collections;
 using UnityEngine;
 using CardSystem;
 using UnityEngine.UI;
@@ -16,7 +17,7 @@ namespace BoardSystem
         [SerializeField] List<CardControl> _cards;
         GridLayoutGroup grid;
         ContentSizeFitter _contentSizeFitter;
-        int _cardCount => _sizeBoard.x * _sizeBoard.y;
+        public int CardCount => _sizeBoard.x * _sizeBoard.y;
 
         private void Awake()
         {
@@ -29,31 +30,32 @@ namespace BoardSystem
             _contentSizeFitter.enabled = true;
             grid.enabled = true;
 
-            CreateBoard();
-            ShuffleBoard();
-
+            StartCoroutine(CreateBoard());
             Invoke(nameof(this.DisableGrid), 1f);
         }
 
-        void CreateBoard()
+        IEnumerator CreateBoard()
         {
-            for(int i = 0; i < _cardCount; i++)
+            var wait = new WaitForSeconds(0.02f);
+            for(int i = 0; i < CardCount; i++)
             {
                 _cards.Add(Instantiate(_cardPrefab,transform));
+                yield return wait;
             }
-            for (int i = 0,indexIcon = 0 ; i < _cardCount; i+=2, indexIcon++)
+            for (int i = 0,indexIcon = 0 ; i < CardCount; i+=2, indexIcon++)
             {
                 _cards[i].CardUI.SetIcon(_icons[indexIcon]);
                 _cards[i+1].CardUI.SetIcon(_icons[indexIcon]);
             }
+            ShuffleBoard();
         }
 
         void ShuffleBoard()
         {
-            for(int i=0; i< _cardCount; i++)
+            for(int i=0; i< CardCount; i++)
             {
                 var temp = _cards[i].CardUI.Icon;
-                int randomIndex = Random.Range(i, _cardCount);
+                int randomIndex = Random.Range(i, CardCount);
                 _cards[i].CardUI.SetIcon(_cards[randomIndex].CardUI.Icon);
                 _cards[randomIndex].CardUI.SetIcon(temp);
             }

@@ -1,27 +1,54 @@
 ﻿using UnityEngine;
 using System.Collections.Generic;
 using BoardSystem;
+using LevelSelect;
 namespace GameplaySystem
 {
     internal class GamePlayManager : MonoBehaviour
     {
-        [field: SerializeField] public int CurrentLevel { get; private set; }
-        [SerializeField] List<BoardInformation> _boardsInfor;
-        BoardControl CurrentBoard;
-        BoardInformation BoardInfor;
+        public static GamePlayManager Instance;
+
+        public CreatBoard BoardCreate;
+        public ScoreControl Score;
+        public ItemFound ItemFound;
         private void Awake()
         {
-            
+            CreateInstance();
+            BoardCreate = GetComponent<CreatBoard>();
+            Score = GetComponent<ScoreControl>();
+            ItemFound = GetComponent<ItemFound>();
         }
+
         private void Start()
         {
-            CreateBoard();
+            ItemFound.OnEnoughItem += WinGame;
         }
-        void CreateBoard()
+
+        void CreateInstance()
         {
-            BoardInfor = _boardsInfor.Find(x => x.Level == CurrentLevel);
-            var prefab = BoardInfor.Board;
-            CurrentBoard = Instantiate(prefab, transform);
+            if (Instance == null)
+            {
+                Instance = this;
+            }
+            else
+            {
+                Destroy(gameObject);
+            }
         }
+        public void StartGame()
+        {
+            BoardCreate.CreateBoard();
+            Score.StartGame();
+        }
+
+        void LoseGame()
+        {
+
+        }
+
+        void WinGame()
+        {
+            Score.StopReduceScore();
+        }    
     }
 }
