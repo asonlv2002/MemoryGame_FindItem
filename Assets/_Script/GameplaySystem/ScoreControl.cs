@@ -30,7 +30,11 @@ namespace GameplaySystem
             {
                 yield return oneSeccond;
                 Score--;
-                _score.text = Score.ToString();
+                if(Score >= 0)
+                {
+                    _score.text = Score.ToString();
+                }
+                
             }
             yield return oneSeccond;
             OnZerScore?.Invoke();
