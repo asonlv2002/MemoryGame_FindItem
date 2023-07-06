@@ -8,5 +8,10 @@ namespace BoardSystem
         [field: SerializeField] public BoardControl Board { get; private set; }
         public int MaxScore;
         public int CurrentScore;
+
+        public void SetMaxScore(int score)
+        {
+            if(score > CurrentScore) CurrentScore = score;
+        }
     }
 }

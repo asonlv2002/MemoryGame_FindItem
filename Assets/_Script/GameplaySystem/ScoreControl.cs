@@ -37,14 +37,15 @@ namespace GameplaySystem
             Debug.Log("Lose");
         }
 
-        public void StopReduceScore()
+        public void ReadScore()
         {
+            LevelSelect.LevelSelectSystem.Instance.BoardInformation.SetMaxScore(Score);
             StopAllCoroutines();
         }
 
         private void OnDestroy()
         {
-            StopReduceScore();
+            ReadScore();
         }
 
     }

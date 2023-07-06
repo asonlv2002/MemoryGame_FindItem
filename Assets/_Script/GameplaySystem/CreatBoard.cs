@@ -7,8 +7,8 @@ namespace GameplaySystem
 {
     internal class CreatBoard : MonoBehaviour
     {
-        BoardControl CurrentBoard;
-        BoardInformation BoardInfor;
+        public BoardControl CurrentBoard { get; private set; }
+        public BoardInformation BoardInfor { get; private set; }
         public void CreateBoard()
         {
             BoardInfor = LevelSelectSystem.Instance.BoardInformation;

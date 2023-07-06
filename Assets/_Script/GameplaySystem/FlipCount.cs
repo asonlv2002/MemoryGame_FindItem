@@ -6,7 +6,7 @@ namespace GameplaySystem
     internal class FlipCount : MonoBehaviour
     {
         [SerializeField] Text _tFlip;
-        int CountFlip;
+        public int CountFlip { get; private set; }
         private void Awake()
         {
             CountFlip = 0;

@@ -11,12 +11,14 @@ namespace GameplaySystem
         public CreatBoard BoardCreate;
         public ScoreControl Score;
         public ItemFound ItemFound;
+        public FlipCount FlipCount;
         private void Awake()
         {
             CreateInstance();
             BoardCreate = GetComponent<CreatBoard>();
             Score = GetComponent<ScoreControl>();
             ItemFound = GetComponent<ItemFound>();
+            FlipCount = GetComponent<FlipCount>();
         }
 
         private void Start()
@@ -48,7 +50,7 @@ namespace GameplaySystem
 
         void WinGame()
         {
-            Score.StopReduceScore();
+            Score.ReadScore();
         }    
     }
 }
