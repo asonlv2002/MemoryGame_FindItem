@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using PopupSystem;
+using UnityEngine;
 using UnityEngine.UI;
 
 namespace ButtonAction
@@ -15,7 +16,12 @@ namespace ButtonAction
 
         void OnClick()
         {
+            PopupManager.Instance.Option.Open();
+        }
 
+        private void OnDestroy()
+        {
+            button.onClick.RemoveAllListeners();
         }
     }
 }
