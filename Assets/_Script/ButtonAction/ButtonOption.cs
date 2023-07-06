@@ -1,4 +1,5 @@
 ﻿using PopupSystem;
+using SoundSystem;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -16,6 +17,7 @@ namespace ButtonAction
 
         void OnClick()
         {
+            SoundManager.Instance.Audio.Play(Audio.UIClick);
             PopupManager.Instance.Option.Open();
         }
 

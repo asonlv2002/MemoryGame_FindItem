@@ -4,6 +4,7 @@ using UnityEngine;
 using UnityEngine.Events;
 using DG.Tweening;
 using GameplaySystem;
+using SoundSystem;
 
 namespace MatchSystem
 {
@@ -40,16 +41,21 @@ namespace MatchSystem
             if (_firstCard == null)
             {
                 _firstCard = cardTarget;
+                SoundManager.Instance.Audio.Play(Audio.CardClick);
             }
             else
             {
+
+                if (cardTarget == _firstCard)
+                {
+                    _secondCard = null;
+                    return;
+                }
                 _secondCard = cardTarget;
+                SoundManager.Instance.Audio.Play(Audio.CardClick);
             }
 
-            if (_secondCard == _firstCard)
-            {
-                _secondCard = null;
-            }
+
         }
 
         bool IsEnterCheck()
@@ -82,6 +88,7 @@ namespace MatchSystem
 
         void OnActiveCorrect()
         {
+            SoundManager.Instance.Audio.Play(Audio.Correct);
             MoveToContaint(_secondCard);
             MoveToContaint(_firstCard);
             StartCoroutine(OnCreate(_firstCard));
@@ -90,6 +97,7 @@ namespace MatchSystem
 
         void OnActiveFail()
         {
+            SoundManager.Instance.Audio.Play(Audio.Fail);
             _secondCard.CardSate.SwitchState();
             _firstCard.CardSate.SwitchState();
             ClearTempCard();

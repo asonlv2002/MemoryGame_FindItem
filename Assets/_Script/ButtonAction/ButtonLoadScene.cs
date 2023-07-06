@@ -2,6 +2,8 @@
 using UnityEngine;
 using SceneSystem;
 using UnityEngine.UI;
+using SoundSystem;
+
 namespace ButtonAction
 {
     internal class ButtonLoadScene : MonoBehaviour
@@ -15,6 +17,7 @@ namespace ButtonAction
         }
         void OnClick()
         {
+            SoundManager.Instance.Audio.Play(Audio.UIClick);
             LoadScene.Instance.LoadIntoScene(_scene);
         }
         private void OnDestroy()

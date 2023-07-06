@@ -3,6 +3,8 @@ using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 using DG.Tweening;
 using System.Collections;
+using SoundSystem;
+
 namespace SceneSystem
 {
     internal class LoadScene : MonoBehaviour
@@ -37,6 +39,7 @@ namespace SceneSystem
         IEnumerator WaitLoad(Scene scene)
         {
             yield return new WaitForSeconds(0.4f);
+            SoundManager.Instance.Audio.Play(Audio.SwitchScene);
             SceneManager.LoadScene(scene.ToString());
         }
     }
