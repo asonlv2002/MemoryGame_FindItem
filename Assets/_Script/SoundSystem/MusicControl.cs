@@ -12,6 +12,7 @@ namespace SoundSystem
         public void SwitchMute()
         {
             themeSong.mute = !themeSong.mute;
+            OnSwitchMute?.Invoke(themeSong.mute);
         }
     }
 }

@@ -13,7 +13,7 @@ namespace SoundSystem
         public UnityAction<bool> OnSwitchMute;
         public void Play(Audio audio)
         {
-            if (!_mute) return;
+            if (_mute) return;
             var target = audioConfigs.Find(x => x.Audio == audio);
             target.AudioSource.Play();
         }

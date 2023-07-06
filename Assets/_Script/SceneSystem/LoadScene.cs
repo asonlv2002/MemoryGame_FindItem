@@ -46,6 +46,7 @@ namespace SceneSystem
 
     public enum Scene
     {
+        StartGame,
         GroupLevel,
         GamePlay
     }
